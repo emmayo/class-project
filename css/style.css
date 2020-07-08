@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+
+.img-caption{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    flex-direction: column;
+}
+.banner-button .btn{
+    border-radius: 35px;
+}
+.img-caption h3{
+	font-size: 80px;
+	font-weight: bold;
+}
+.img-caption span{
+	color: gold;
+}
+.img-caption p{
+	font-size: 30px;
+	color: gold;
+}
+.bold;
+	font-style: nicon-card{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: #f1f1f1;
+	text-transform: uppercase;
+	font-weight: bold;
+	height: 262.5px;
+	width: 242.83px;
+	margin-right: 10px;
+}
+.icon-card h3{
+	font-weight: bold;
+	font-style: italic;	
+}
+.span i{
+	margin-right: 12px;
+}
+.services{
+	max-height: 1000px;
+	background-color: #f1f1f1;
+}
+.card h3{
+	color: #00595a;
+	font-size: 30px;
+	font-weight: normal;
+}
+.banner-button text-center{
+	justify-content: center;
+	border-radius: 35px;
+}
+.logo{
+	font-weight: bold;
+	font-size:20px; 
+}
+
+.about{
+  font-family: 'Pangolin', cursive;
+}
+
+footer{
+	background-color: #f1f1f1;
+	min-height: 450px;
+	/*height: auto;*/
+}
+footer h3{
+	font-weight: bold;
+	font-size:24px;
+	color: #00515a;
+	text-transform: capitalize; 
+}
+footer a{
+	color: #888888;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+footer li{
+	margin: 8px 0px 0px;
+}
+.icon-bg{
+	background-color: #888;
+	min-height: 80;
+	
+}
+.icon-bg span{
+	height: 40px;
+	width: 40px;
+	background-color: #ffbd0f;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+span i:hover{
+	color: white;
+}
+
+.about-banner{
+	background: linear-gradient(rgba(6,159,166,0.8),rgba(6,159,166,0.6),rgba(6,159,166,0.9)),url(../images/coder.jpg);
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.contact-banner{
+	background: linear-gradient(rgba(6,159,166,0.8),rgba(6,159,166,0.6),rgba(6,159,166,0.9)),url(../repair/gal.jpg);
+	height: 400px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.form-head{
+	text-transform: uppercase;
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.mission{
+  font-size: 60px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+.mission p{
+  font-weight: bold;
+  font-size: 30px;
+}
+.vision {
+  font-size: 60px;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+.vision p{
+  font-weight: bold;
+  font-size: 30px;
+}
